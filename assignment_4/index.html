@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First DevOps App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Hello DevOps!</h1>
+        <p>This website is deployed using GitHub Actions and Render.</p>
+
+        <button onclick="showMessage()">
+            Click Me
+        </button>
+
+        <h2 id="msg"></h2>
+    </div>
+
+    <script>
+        function showMessage() {
+            document.getElementById("msg").innerHTML =
+            "CI/CD Pipeline Working Successfully!";
+        }
+    </script>
+
+</body>
+</html>
