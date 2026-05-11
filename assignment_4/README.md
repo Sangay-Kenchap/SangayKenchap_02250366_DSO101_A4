@@ -19,7 +19,7 @@ This project demonstrates:
 4. Deployed app using Render
 
 ## Live Website
-(Add your Render URL here)
+https://sangaykenchap-02250366-dso101-a4.onrender.com
 
 ## GitHub Repository
-(Add your GitHub repo link here)
+https://github.com/Sangay-Kenchap/SangayKenchap_02250366_DSO101_A4.git
